@@ -11,7 +11,7 @@ This app should be able to do the following:
 
 * The edit button should populate an edit form inside the card
 
-* The edit form should allow your changes to show on the page upon form submission (*your changes will not persist - that's ok*)
+* The edit form should allow your changes to show on the page upon form submission (*your changes will not persist to the database - that's ok*)
   * HOWEVER the new info should still appear when you toggle between adding and removing the card from your team
 
 * Create a text filter that filters students by name; this filter should apply to student inside and outside of your team
